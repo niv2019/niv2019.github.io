@@ -30,7 +30,7 @@ body {
 }
 
 .light-theme {
-    --bg: var(--turquoise);
+    --bg: /*var(--turquoise)*/linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
     --fontColor: var(--black);
     --btnBg: var(--black);
     --btnFontColor: var(--white);
