@@ -31,7 +31,7 @@ body {
 }
 
 .light-theme {
-    --bg:linear-gradient(to  right, rgb(0, 210, 255), rgb(15, 233, 222), rgb(2, 175, 132));
+    --bg:linear-gradient(to  right, rgb(0, 217, 255), rgb(15, 233, 222), rgb(5, 236, 179));
     --fontColor: var(--black);
     --btnBg: var(--black);
     --btnFontColor: var(--white);
