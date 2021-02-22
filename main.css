@@ -19,6 +19,7 @@ li {
     --turquoise: #00c3ffea;
     --white: #ffffff;
     --black: #000000;
+    --aqua: #00d4ff;
 }
   * {
     color: var(--fontColor);
@@ -30,7 +31,7 @@ body {
 }
 
 .light-theme {
-    --bg: /*var(--turquoise)*/linear-gradient(to right, rgba(0,212,255,100), rgba(255,0,0,1));
+    --bg:linear-gradient(to  right, aqua, rgb(15, 233, 222), rgb(2, 175, 132));
     --fontColor: var(--black);
     --btnBg: var(--black);
     --btnFontColor: var(--white);
